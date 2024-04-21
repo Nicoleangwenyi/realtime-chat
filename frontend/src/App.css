@@ -79,7 +79,7 @@ body {
   -webkit-transition: all .44s ease;
   -moz-transition: all .44s ease;
 }
-.auth-button:hover { filter: brightness(145%); }
+.auth-button:hover { filter: brightness(150%); }
 
 .chat-wrapper {
   height: 80vh; 
